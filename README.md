@@ -4,7 +4,7 @@ A demo of a custom dynamic cursor component in a [Svelte](https://svelte.dev/) a
 
 ## Preview
 
-Try it yourself [here](@TODO)!
+Try it yourself [here](https://svelte-dynamic-cursor-demo.vercel.app/)!
 
 ![Preview animation](./static/preview.gif)
 
@@ -14,4 +14,4 @@ Try it yourself [here](@TODO)!
 
 ## Guide
 
-- [Twitter thread](@TODO)
+- [Twitter thread](https://twitter.com/bartosjiri_/status/1745109935598272653)

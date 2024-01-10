@@ -22,7 +22,7 @@
 	</div>
 </div>
 <a href="https://github.com/bartosjiri/svelte-dynamic-cursor-demo" target="_blank"> Source code </a>
-<a href="@TODO" target="_blank">Guide</a>
+<a href="https://twitter.com/bartosjiri_/status/1745109935598272653" target="_blank">Guide</a>
 <p>A project by <a href="https://bartosjiri.com" target="_blank">bartosjiri</a></p>
 
 <style lang="scss">
